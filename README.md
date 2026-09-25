@@ -36,15 +36,15 @@ meu-projeto-dashboard/
 
 Para que o dashboard funcione corretamente — gerando todos os KPIs, gráficos de barras, linhas, dispersão e estatísticas avançadas —, o arquivo CSV de entrada deve conter obrigatoriamente as seguintes colunas com seus respectivos tipos e formatos:
 
-| Nome da Coluna  | Tipo de Dado     | Descrição / Exemplo                                                             | Formato Esperado            |   |   |   |   |   |   |
-|-----------------|------------------|---------------------------------------------------------------------------------|-----------------------------|---|---|---|---|---|---|
-| Name            | Texto (String)   | Nome do cliente ou vendedor (Ex: Ana Silva)                                     | Texto livre                 |   |   |   |   |   |   |
-| Date            | Data (Date)      | Data da operação ou transação                                                   | AAAA-MM-DD (Ex: 2026-01-15) |   |   |   |   |   |   |
-| Ticket date     | Data (Date)      | Data de emissão do ticket/fatura                                                | AAAA-MM-DD (Ex: 2026-01-15) |   |   |   |   |   |   |
-| Line of Product | Texto (String)   | Categoria ou linha do produto (Ex: Eletrônicos, Roupas, Casa e Cozinha, Livros) | Texto livre                 |   |   |   |   |   |   |
-| Region          | Texto (String)   | Região geográfica da venda (Ex: Sudeste, Sul, Nordeste, Centro-Oeste, Norte)    | Texto livre                 |   |   |   |   |   |   |
-| Quantity        | Numérico Inteiro | Quantidade de itens vendidos por transação (Ex: 1, 2, 5)                        | Número inteiro (int)        |   |   |   |   |   |   |
-| Sales           | Numérico Decimal | Valor monetário total da venda (Ex: 1250.50)                                    | Decimal com ponto (float)   |   |   |   |   |   |   |
+| Nome da Coluna  | Tipo de Dado     | Descrição / Exemplo                                                             | Formato Esperado            |
+|-----------------|------------------|---------------------------------------------------------------------------------|-----------------------------|
+| Name            | Texto (String)   | Nome do cliente ou vendedor (Ex: Ana Silva)                                     | Texto livre                 |
+| Date            | Data (Date)      | Data da operação ou transação                                                   | AAAA-MM-DD (Ex: 2026-01-15) |
+| Ticket date     | Data (Date)      | Data de emissão do ticket/fatura                                                | AAAA-MM-DD (Ex: 2026-01-15) |
+| Line of Product | Texto (String)   | Categoria ou linha do produto (Ex: Eletrônicos, Roupas, Casa e Cozinha, Livros) | Texto livre                 |
+| Region          | Texto (String)   | Região geográfica da venda (Ex: Sudeste, Sul, Nordeste, Centro-Oeste, Norte)    | Texto livre                 |
+| Quantity        | Numérico Inteiro | Quantidade de itens vendidos por transação (Ex: 1, 2, 5)                        | Número inteiro (int)        |
+| Sales           | Numérico Decimal | Valor monetário total da venda (Ex: 1250.50)                                    | Decimal com ponto (float)   |
 
 
 ### Dicas para os Dados:
