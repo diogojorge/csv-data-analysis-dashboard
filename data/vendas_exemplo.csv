@@ -1,0 +1,101 @@
+Name,Date,Ticket date,Line of Product,Region,Quantity,Sales
+Ana Silva,2026-01-15,2026-01-15,Eletrônicos,Sudeste,2,1250.50
+Carlos Souza,2026-01-18,2026-01-18,Roupas,Sul,1,320.00
+Mariana Costa,2026-01-20,2026-01-20,Casa e Cozinha,Nordeste,3,450.75
+João Pedro,2026-02-02,2026-02-02,Eletrônicos,Sudeste,4,2100.00
+Beatriz Lima,2026-02-05,2026-02-05,Livros,Centro-Oeste,1,89.90
+Lucas Martins,2026-02-10,2026-02-10,Roupas,Norte,1,150.00
+Fernanda Dias,2026-02-12,2026-02-12,Casa e Cozinha,Sul,2,620.30
+Gabriel Rocha,2026-02-15,2026-02-15,Eletrônicos,Sudeste,5,3400.00
+Juliana Mendes,2026-02-20,2026-02-20,Livros,Nordeste,1,120.00
+Rafael Alves,2026-02-25,2026-02-25,Roupas,Sudeste,1,299.90
+Camila Santos,2026-03-01,2026-03-01,Eletrônicos,Sul,2,850.00
+Bruno Ribeiro,2026-03-03,2026-03-03,Casa e Cozinha,Sudeste,1,159.90
+Larissa Nunes,2026-03-05,2026-03-05,Livros,Nordeste,1,75.50
+Thiago Cardoso,2026-03-08,2026-03-08,Roupas,Centro-Oeste,2,410.00
+Vanessa Rocha,2026-03-10,2026-03-10,Eletrônicos,Norte,3,1890.00
+Rodrigo Moreira,2026-03-12,2026-03-12,Casa e Cozinha,Sudeste,2,930.00
+Patrícia Pinto,2026-03-15,2026-03-15,Livros,Sul,1,210.00
+Eduardo Lima,2026-03-18,2026-03-18,Roupas,Nordeste,2,540.00
+Renata Castro,2026-03-20,2026-03-20,Eletrônicos,Sudeste,1,1299.00
+Marcos Vinicius,2026-03-22,2026-03-22,Casa e Cozinha,Centro-Oeste,1,480.50
+Jessica Freitas,2026-03-25,2026-03-25,Roupas,Sul,1,330.00
+Matheus Barbosa,2026-03-28,2026-03-28,Livros,Norte,1,95.00
+Tatiane Ramos,2026-04-02,2026-04-02,Eletrônicos,Sudeste,4,2450.00
+Felipe Duarte,2026-04-05,2026-04-05,Casa e Cozinha,Nordeste,1,310.00
+Camila Correia,2026-04-08,2026-04-08,Roupas,Sudeste,1,190.50
+Diego Farias,2026-04-10,2026-04-10,Livros,Sul,1,140.00
+Sabrina Guedes,2026-04-12,2026-04-12,Eletrônicos,Centro-Oeste,2,1150.00
+Alexandre Melo,2026-04-15,2026-04-15,Casa e Cozinha,Norte,2,720.00
+Priscilla Nunes,2026-04-18,2026-04-18,Roupas,Sudeste,1,280.00
+Leonardo Vieira,2026-04-20,2026-04-20,Livros,Nordeste,1,65.00
+Beatriz Souza,2026-04-22,2026-04-22,Eletrônicos,Sul,6,4500.00
+Guilherme Silva,2026-04-25,2026-04-25,Casa e Cozinha,Sudeste,1,530.00
+Amanda Costa,2026-04-28,2026-04-28,Roupas,Centro-Oeste,1,390.00
+Vinicius Araujo,2026-05-02,2026-05-02,Livros,Norte,1,110.00
+Larissa Ribeiro,2026-05-05,2026-05-05,Eletrônicos,Sudeste,2,980.00
+Marcelo Santos,2026-05-08,2026-05-08,Casa e Cozinha,Sul,1,270.00
+Vanessa Martins,2026-05-10,2026-05-10,Roupas,Nordeste,2,460.00
+Gustavo Lima,2026-05-12,2026-05-12,Eletrônicos,Centro-Oeste,3,1750.00
+Daniela Rocha,2026-05-15,2026-05-15,Livros,Sudeste,1,150.00
+Roberto Carlos,2026-05-18,2026-05-18,Casa e Cozinha,Norte,2,840.00
+Isabela Mendes,2026-05-20,2026-05-20,Roupas,Sul,1,310.00
+Thiago Alves,2026-05-22,2026-05-22,Eletrônicos,Sudeste,4,2900.00
+Natália Dias,2026-05-25,2026-05-25,Livros,Nordeste,1,85.00
+Renato Freitas,2026-05-28,2026-05-28,Casa e Cozinha,Centro-Oeste,1,395.00
+Bianca Ramos,2026-06-01,2026-06-01,Roupas,Sudeste,1,220.00
+Lucas Pinto,2026-06-04,2026-06-04,Eletrônicos,Norte,2,1340.00
+Carolina Duarte,2026-06-07,2026-06-07,Casa e Cozinha,Sul,2,510.00
+Eduardo Souza,2026-06-10,2026-06-10,Livros,Sudeste,1,175.00
+Mariana Lima,2026-06-12,2026-06-12,Roupas,Nordeste,1,380.00
+Gabriel Martins,2026-06-15,2026-06-15,Eletrônicos,Centro-Oeste,3,2100.00
+Juliana Costa,2026-06-18,2026-06-18,Casa e Cozinha,Sudeste,2,620.00
+Felipe Rocha,2026-06-20,2026-06-20,Livros,Norte,1,90.00
+Ana Paula,2026-06-22,2026-06-22,Roupas,Sul,1,250.00
+Carlos Eduardo,2026-06-25,2026-06-25,Eletrônicos,Sudeste,3,1650.00
+Beatriz Mendes,2026-06-28,2026-06-28,Casa e Cozinha,Nordeste,1,430.00
+João Vitor,2026-07-02,2026-07-02,Livros,Centro-Oeste,1,130.00
+Larissa Farias,2026-07-05,2026-07-05,Roupas,Sudeste,2,410.00
+Bruno Guedes,2026-07-08,2026-07-08,Eletrônicos,Norte,4,2200.00
+Fernanda Melo,2026-07-10,2026-07-10,Casa e Cozinha,Sul,1,340.00
+Rafael Nunes,2026-07-12,2026-07-12,Livros,Sudeste,1,75.00
+Camila Vieira,2026-07-15,2026-07-15,Roupas,Nordeste,1,290.00
+Diego Souza,2026-07-18,2026-07-18,Eletrônicos,Centro-Oeste,3,1890.00
+Sabrina Lima,2026-07-20,2026-07-20,Casa e Cozinha,Sudeste,2,750.00
+Alexandre Santos,2026-07-22,2026-07-22,Livros,Norte,1,115.00
+Priscilla Rocha,2026-07-25,2026-07-25,Roupas,Sul,1,360.00
+Leonardo Alves,2026-07-28,2026-07-28,Eletrônicos,Sudeste,5,3100.00
+Vanessa Costa,2026-08-02,2026-08-02,Casa e Cozinha,Nordeste,1,490.00
+Rodrigo Pinto,2026-08-05,2026-08-05,Livros,Centro-Oeste,1,85.00
+Patrícia Duarte,2026-08-08,2026-08-08,Roupas,Sudeste,1,210.00
+Marcos Lima,2026-08-10,2026-08-10,Eletrônicos,Norte,2,1450.00
+Jessica Martins,2026-08-12,2026-08-12,Casa e Cozinha,Sul,2,580.00
+Matheus Costa,2026-08-15,2026-08-15,Livros,Sudeste,1,140.00
+Tatiane Rocha,2026-08-18,2026-08-18,Roupas,Nordeste,1,330.00
+Felipe Mendes,2026-08-20,2026-08-20,Eletrônicos,Centro-Oeste,4,2750.00
+Camila Alves,2026-08-22,2026-08-22,Casa e Cozinha,Sudeste,1,410.00
+Diego Dias,2026-08-25,2026-08-25,Livros,Norte,1,95.00
+Sabrina Ramos,2026-08-28,2026-08-28,Roupas,Sul,1,280.00
+Alexandre Pinto,2026-09-01,2026-09-01,Eletrônicos,Sudeste,3,1980.00
+Priscilla Duarte,2026-09-03,2026-09-03,Casa e Cozinha,Nordeste,1,350.00
+Leonardo Lima,2026-09-05,2026-09-05,Livros,Centro-Oeste,1,160.00
+Vanessa Martins,2026-09-08,2026-09-08,Roupas,Sudeste,2,440.00
+Rodrigo Costa,2026-09-10,2026-09-10,Eletrônicos,Norte,4,2500.00
+Patrícia Rocha,2026-09-12,2026-09-12,Casa e Cozinha,Sul,2,610.00
+Marcos Mendes,2026-09-15,2026-09-15,Livros,Sudeste,1,120.00
+Jessica Alves,2026-09-18,2026-09-18,Roupas,Nordeste,1,310.00
+Matheus Dias,2026-09-20,2026-09-20,Eletrônicos,Centro-Oeste,3,1650.00
+Tatiane Ramos,2026-09-22,2026-09-22,Casa e Cozinha,Sudeste,2,480.00
+Felipe Pinto,2026-09-25,2026-09-25,Livros,Norte,1,105.00
+Camila Duarte,2026-09-28,2026-09-28,Roupas,Sul,1,390.00
+Diego Lima,2026-10-02,2026-10-02,Eletrônicos,Sudeste,3,2100.00
+Sabrina Martins,2026-10-05,2026-10-05,Casa e Cozinha,Nordeste,2,520.00
+Alexandre Costa,2026-10-08,2026-10-08,Livros,Centro-Oeste,1,145.00
+Priscilla Rocha,2026-10-10,2026-10-10,Roupas,Sudeste,1,270.00
+Leonardo Mendes,2026-10-12,2026-10-12,Eletrônicos,Norte,3,1750.00
+Vanessa Alves,2026-10-15,2026-10-15,Casa e Cozinha,Sul,1,390.00
+Rodrigo Dias,2026-10-18,2026-10-18,Livros,Sudeste,1,85.00
+Patrícia Ramos,2026-10-20,2026-10-20,Roupas,Nordeste,1,340.00
+Marcos Pinto,2026-10-22,2026-10-22,Eletrônicos,Centro-Oeste,5,2950.00
+Jessica Duarte,2026-10-25,2026-10-25,Casa e Cozinha,Sudeste,1,460.00
+Matheus Lima,2026-10-28,2026-10-28,Livros,Norte,1,115.00
